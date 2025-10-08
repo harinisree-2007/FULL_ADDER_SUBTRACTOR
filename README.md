@@ -53,6 +53,30 @@ Write the detailed procedure here
 
 **Result:**
 
+
+logic diagram for full adder :
+<img width="646" height="311" alt="Screenshot 2025-10-08 132448" src="https://github.com/user-attachments/assets/e5597b91-4a63-4246-9b0a-b758a8e5fbb5" />
+
+
+
+state diagram for full adder:
+
+
+<img width="1918" height="252" alt="Screenshot 2025-10-08 132655" src="https://github.com/user-attachments/assets/510bcd8d-d74c-446f-8498-31866b2d30be" />
+
+
+logic diagram for full subtractor:
+
+<img width="862" height="383" alt="Screenshot 2025-10-08 134214" src="https://github.com/user-attachments/assets/076c02e2-7b81-4168-8c77-c4aa9967db64" />
+
+
+
+State diagram for full subtractor :
+
+
+<img width="1911" height="242" alt="Screenshot 2025-10-08 134400" src="https://github.com/user-attachments/assets/c50a1c6d-eab9-46f2-8f48-1504d2056faf" />
+
+
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
 
